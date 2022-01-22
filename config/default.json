@@ -1,0 +1,7 @@
+{
+    
+
+
+    "mongoURI":"mongodb+srv://ash:ash@devconnector.poef9.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "jwtSecret":"mysecrettoken"
+}
